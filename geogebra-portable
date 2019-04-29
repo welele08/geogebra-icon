@@ -10,7 +10,7 @@ export GG_SCRIPTNAME=$(basename $0)
 
 #---------------------------------------------
 # Find out path of this script
-GG_PATH="/usr/bin"
+GG_PATH="/usr/share"
 
 #---------------------------------------------
 # Export Java Command
